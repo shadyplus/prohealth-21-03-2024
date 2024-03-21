@@ -1,0 +1,214 @@
+@font-face {
+  font-family: 'Boogaloo';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/boogaloo/v12/kmK-Zq45GAvOdnaW6y1C9y4.ttf) format('truetype');
+}
+.time_remains {
+  font-size: 1.1em;
+  color: red;
+  font-weight: bold;
+}
+.button{
+  border: none;
+}
+.order_block {
+  text-align: center !important;
+}
+
+.api-form1 .text1 a {
+  box-shadow: none !important;
+  font-weight: 700 !important;
+  color: #ca2d2d !important;
+  border: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  display: inline !important
+}
+
+.api-form1 *:before,
+.api-form1 *:after {
+  content: none
+}
+
+.cb-con label,
+.api-form1 label {
+  font-style: normal;
+  font-size: 12px !important;
+  font-weight: 700 !important;
+  cursor: text !important;
+  text-align: left !important;
+  display: block !important;
+  color: #222 !important;
+  margin: 0 0 2.5px 20px !important;
+  padding: 0 !important
+}
+
+.api-form1 .country-flag {
+  width: 25px !important;
+  position: relative !important;
+  top: 2px !important
+}
+
+.api-form1 p.delivery {
+  background: linear-gradient(to right, transparent 0%, #ddd 50%, transparent 100%) !important;
+  margin: 15px 0 0 !important;
+  padding: 5px !important;
+  text-align: center !important;
+  font-size: 16px !important;
+  color: #555 !important
+}
+
+.api-form1 .footnote1 {
+  line-height: 15px !important;
+  text-indent: 0 !important;
+  font-size: 10px !important;
+  margin: 10px 0 0 !important;
+  text-align: center !important;
+  padding: 0 !important;
+  color: #888 !important
+}
+
+.api-form1 .text {
+  border: none !important;
+  text-align: center !important;
+  color: #222 !important;
+  padding: 0 !important;
+  font-size: 18px !important;
+  width: 100% !important;
+  float: none !important;
+  line-height: 25px !important;
+  font-weight: 700 !important;
+  margin: 10px 0 !important
+}
+
+.api-form1 form {
+  padding: 0 !important;
+  background: 0 0 !important;
+  margin: 15px auto 0 !important
+}
+
+.api-form1 .form-body .text .offer-name,
+.api-form1 .form-body .text .offer-price {
+  color: #ca2d2d !important;
+  font-weight: 700 !important
+}
+
+.api-form1 {
+  background: #fff !important;
+  box-sizing: border-box !important;
+  max-width: 465px !important;
+  position: relative !important;
+  margin: -10px auto !important;
+  text-align: center !important;
+  border: 2.5px dashed #ddd !important;
+  border-radius: 2.5px !important;
+  padding: 30px !important;
+  clear: both !important
+}
+
+.api-form1 .deadline1 {
+  font-size: 14px !important;
+  color: #222 !important;
+  text-align: center !important;
+  margin: 0 !important
+}
+
+.api-form1 .name:invalid,
+.api-form1 .phone:invalid,
+.api-form1 .country:invalid,
+.api-form1 .name,
+.api-form1 .phone,
+.api-form1 .country, .form-control {
+  font-style: normal;
+  transition: .25s !important;
+  line-height: 20px !important;
+  box-shadow: none !important;
+  font-size: 14px !important;
+  font-weight: 400 !important;
+  background: 0 0 !important;
+  max-width: 100% !important;
+  width: 100% !important;
+  height: auto !important;
+  background: #f2f2f2 !important;
+  outline: none !important;
+  box-sizing: border-box !important;
+  border: 2.5px solid #ddd !important;
+  border-radius: 35px !important;
+  padding: 15px !important;
+  margin: 0 0 15px !important
+}
+
+.api-form1.name:focus,
+.api-form1 .phone:focus,
+.api-form1 .country:focus {
+  border: 2.5px solid #aaa !important
+}
+
+.api-form1 .cta-form {
+  margin: 0 !important
+}
+
+.api-form1 {
+  padding: 15px !important
+}
+
+.api-form1 .submit {
+  font-size: 16px !important;
+  padding: 15px 5px !important
+}
+
+.form-header1 .form-header1 {
+  text-align: center !important
+}
+
+.api-form1 .cta-form1 {
+  margin: 0 !important
+}
+
+.product-banner-text1 {
+  font-size: 12px !important
+}
+
+.product-banner1 {
+  width: 117px !important;
+  height: 117px !important
+}
+
+.product-banner1 {
+  opacity: .9 !important;
+  display: table !important;
+  width: 117px !important;
+  height: 117px !important;
+  line-height: 25px !important;
+  color: #fff !important;
+  font-size: 18px !important;
+  text-align: center !important;
+  background: url(../images/product-banner.png) no-repeat center !important;
+  background-size: 100% !important;
+  position: absolute !important;
+  top: 0 !important;
+  right: 0 !important;
+  text-decoration: none !important
+}
+
+.product-banner-text1 {
+  text-align: center !important;
+  margin: 0 !important;
+  font-weight: 700 !important;
+  color: #f2f2f2 !important;
+  display: table-cell !important;
+  font-size: 20px !important;
+  vertical-align: middle !important;
+  position: relative
+}
+
+.product-banner-text1:after {
+  position: relative;
+  top: -5px;
+  left: -2.5px
+}
+
+.product-banner-text1 {
+  font-size: 16px !important
+}
